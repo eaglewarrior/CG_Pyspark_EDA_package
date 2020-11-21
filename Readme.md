@@ -76,8 +76,6 @@ df=get_trend_df(new_data,"parsed_date","tran_amount",agg_type="avg",frequency_wi
 See trend_function_demo_cg.ipynb for the get_trend_df function demo .
 See Univariate_EDA_functions.ipynb for the demo of continuous and discrete functions
 
-## Fork the project at https://notebooks.azure.com/rinki-nag/projects/spark 
-
 Please install required libraries before using the function , details can be found in requirements.txt
 
 # Importing all required libraries
