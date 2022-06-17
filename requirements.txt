@@ -1,6 +1,6 @@
 pandas==0.22.0
 matplotlib==3.0.0
 seaborn==0.9.0
-numpy==1.11.3
+numpy==1.21.0
 py4j==0.10.7
 pyspark==2.4.3
